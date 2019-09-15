@@ -1,4 +1,4 @@
-# robot-hooks
+# preact-robot
 
 [Preact](https://preactjs.com/) hooks for use with [Robot](https://thisrobot.life/).
 
