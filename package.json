@@ -1,6 +1,6 @@
 {
   "name": "preact-robot",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Preact hooks for Robot finite state machines",
   "main": "machine.js",
   "module": "machine.js",
