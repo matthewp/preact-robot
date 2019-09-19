@@ -28,15 +28,15 @@
   "homepage": "https://github.com/matthewp/preact-robot#readme",
   "peerDependencies": {
     "preact": "^10.0.0-rc.3",
-    "robot3": "^0.1.0"
+    "robot3": "^0.2.0"
   },
   "dependencies": {
-    "robot-hooks": "^0.1.0"
+    "robot-hooks": "0.2.0"
   },
   "devDependencies": {
     "http-server": "^0.11.1",
     "node-qunit-puppeteer": "^1.0.13",
     "preact": "^10.0.0-rc.3",
-    "robot3": "^0.1.0"
+    "robot3": "0.2.0"
   }
 }

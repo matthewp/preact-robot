@@ -2,26 +2,13 @@
 
 [Preact](https://preactjs.com/) hooks for use with [Robot](https://thisrobot.life/).
 
-## Installation
-
-Via npm:
-
-```shell
-npm install preact-robot --save
-```
-
-Or Yarn:
-
-```shell
-yarn add preact-robot
-```
-
-## Usage
+See documentation on [the website](https://thisrobot.life/integrations/preact-robot.html).
 
 ```js
 import { useMachine } from 'preact-robot';
 import { h } from 'preact';
 import { html } from 'htm/prect';
+import { createMachine, state, transition } from 'robot3';
 
 const machine = createMachine({
   one: state(
@@ -40,6 +27,12 @@ function App() {
   `;
 }
 ```
+
+## 📚 [Documentation](https://thisrobot.life/integrations/preact-robot.html)
+
+* Please star [the repository](https://github.com/matthewp/preact-robot) on GitHub.
+* [File an issue](https://github.com/matthewp/preact-robot/issues) if you find a bug. Or better yet...
+* [Submit a pull request](https://github.com/matthewp/preact-robot/compare) to contribute.
 
 ## License
 
