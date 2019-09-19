@@ -4,8 +4,6 @@
 
 See documentation on [the website](https://thisrobot.life/integrations/preact-robot.html).
 
-## Usage
-
 ```js
 import { useMachine } from 'preact-robot';
 import { h } from 'preact';
